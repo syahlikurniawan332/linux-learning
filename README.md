@@ -2,61 +2,21 @@
 
 Welcome to my Linux learning repository.
 
-This repository documents my Linux learning journey as part of my roadmap to becoming a DevOps Engineer. Here, I organize my notes, command references, and hands-on practice while learning Linux.
+This repository documents my Linux learning journey as part of my roadmap to becoming a DevOps Engineer.
+
+Each lab contains learning notes, Linux commands, and hands-on practice completed throughout my learning process.
+
+## Learning Labs
+
+- 📁 01 - Lab Start Linux *(In Progress)*
+- 📁 02 - Lab Linux File Permissions
+- 📁 03 - Lab Linux Users and Groups
+- 📁 04 - Lab Linux Process Management
+- 📁 05 - Lab Linux Networking
+- 📁 06 - Lab Shell Scripting
+- 📁 07 - Lab SSH
+- 📁 08 - Lab Cron Jobs
 
 ---
 
-## 🎯 Goals
-
-* Learn Linux fundamentals
-* Practice Linux commands
-* Understand Linux system administration
-* Build a strong foundation for DevOps
-
----
-
-## 📚 Learning Progress
-
-* [x] Linux Basics
-* [x] Basic File Operations
-* [ ] File Permissions
-* [ ] Users and Groups
-* [ ] Process Management
-* [ ] Networking
-* [ ] Shell Scripting
-* [ ] SSH
-* [ ] Cron Jobs
-
----
-
-## 📂 Repository Structure
-
-```text
-linux-learning/
-│
-├── README.md
-├── chapters/
-├── labs/
-└── assets/
-```
-
-* **chapters/** – Learning notes for each Linux topic.
-* **labs/** – Hands-on practice and exercises.
-* **assets/** – Images and screenshots used in the documentation.
-
----
-
-## 🚀 Learning Approach
-
-For every topic, I will:
-
-1. Learn the concept.
-2. Practice the commands.
-3. Document what I learned.
-4. Complete a small hands-on exercise.
-
----
-
-## 📝 Notes
-
-This repository will be updated continuously as I complete new lessons and practical labs. My goal is not only to learn Linux commands but also to understand how Linux is used in real-world DevOps environments.
+> This repository will continue to grow as I complete more Linux and DevOps labs.
