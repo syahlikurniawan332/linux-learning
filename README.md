@@ -8,8 +8,8 @@ Each lab contains learning notes, Linux commands, and hands-on practice complete
 
 ## Learning Labs
 
-- 📁 01 - Lab Start Linux *(In Progress)*
-- 📁 02 - Lab Linux File Permissions
+- 📁 01 - Lab Start Linux
+- 📁 02 - Lab Linux File Permissions *(In Progress)*
 - 📁 03 - Lab Linux Users and Groups
 - 📁 04 - Lab Linux Process Management
 - 📁 05 - Lab Linux Networking
