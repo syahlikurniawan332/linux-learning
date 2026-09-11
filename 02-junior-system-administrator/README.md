@@ -102,9 +102,9 @@ By completing this module, I aim to:
 ### Week 1
 
 - [x] Day 01 - The Lay of the Land
-- [ ] Day 02 - The Digital Architect
-- [ ] Day 03 - The Log Investigator
-- [ ] Day 04 - The Fortress Guardian
+- [x] Day 02 - The Digital Architect
+- [x] Day 03 - The Log Investigator
+- [x] Day 04 - The Fortress Guardian
 - [ ] Day 05 - The Keeper of the Keys
 
 ### Week 2
